@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "SoulLinkForNoggas.aternos.me",
+    "port": 56365,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
